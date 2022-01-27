@@ -1,0 +1,16 @@
+{
+  "name": "learning_how_to_create_an_npm_package",
+  "version": "1.0.0",
+  "description": "Learning how to create an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "GraphQL"
+  ],
+  "author": "Egor",
+  "license": "ISC"
+}
